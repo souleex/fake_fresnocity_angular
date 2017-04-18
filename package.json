@@ -1,0 +1,25 @@
+{
+  "name": "fresno_city_webpage_clone_angular",
+  "version": "1.0.0",
+  "description": "angular version of the fake fresno city webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souleex/fake_fresnocity_angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souleex/fake_fresnocity_angular/issues"
+  },
+  "homepage": "https://github.com/souleex/fake_fresnocity_angular#readme",
+  "dependencies": {
+    "angular": "^1.6.4"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.0.0"
+  }
+}
